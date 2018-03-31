@@ -5,9 +5,9 @@ description: A blog about lorem ipsum dolor sit amet
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Brooke Klimek
-user_description: Unity 3D AR/VR developer and self-taught iOS developer
-user_title: Brooke Klimek
+username:
+user_description:
+user_title: Brooke Klimek 
 email: bcklimek@gmail.com
 twitter_username: lorem_ipsum
 github_username:  lorem_ipsum
